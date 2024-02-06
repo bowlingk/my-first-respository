@@ -10,3 +10,4 @@ Important steps for git workflow:
 6. Review previous chnages with git log
 
 # checking repository for errors
+Add new line
